@@ -1,4 +1,4 @@
 pandas
-sklearn.datasets
+sklearn
 mlflow
 os
